@@ -121,7 +121,7 @@ stitch_indoor_plant_care_dashboard/
 
 1. 이 리포지토리를 로컬 환경에 클론합니다.
    ```bash
-   git clone https://github.com/parkwonminn/Vibecoading1234.git
+   git clone https://github.com/parkwonminn/Test.git
    ```
 2. 루트 디렉토리의 `index.html`을 브라우저에서 실행하거나, 개발 서버(Live Server 등)를 통해 열어줍니다.
 3. **AI 비서 활용법**:
